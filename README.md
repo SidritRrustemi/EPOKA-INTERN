@@ -1,0 +1,2 @@
+# EPOKA-INTERN
+learning git
